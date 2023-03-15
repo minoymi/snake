@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hXTjWxzHywzWJmRGKBOdu5xBw0J/HZphVYKCfvD8sDuQS3SVdgYR/wkf6PP5Exq9Ql9DawZaHht2FYGiVuX+Fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\minami\\source\\repos\\Snake\\Snake\\Snake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\minami\\.nuget\\packages\\raylib-cs\\4.2.0.2\\raylib-cs.4.2.0.2.nupkg.sha512",
+    "C:\\Users\\minami\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

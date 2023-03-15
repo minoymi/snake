@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Snake</id>
+    <version>1.0.0</version>
+    <authors>Snake</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="Raylib-cs" version="4.2.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net7.0/sneyk.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\minami\source\repos\Snake\Snake\bin\Debug\net7.0\Snake.runtimeconfig.json" target="lib\net7.0\Snake.runtimeconfig.json" />
+    <file src="C:\Users\minami\source\repos\Snake\Snake\bin\Debug\net7.0\Snake.dll" target="lib\net7.0\Snake.dll" />
+    <file src="C:\Users\minami\source\repos\Snake\Snake\sneyk.ico" target="content\sneyk.ico" />
+    <file src="C:\Users\minami\source\repos\Snake\Snake\sneyk.ico" target="contentFiles\any\net7.0\sneyk.ico" />
+  </files>
+</package>
